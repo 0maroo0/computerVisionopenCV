@@ -5,7 +5,7 @@ import numpy as np
 
 
 
-img = cv.imread('kabalaw.jpg')
+img = cv.imread('dogcat.jpg')
 
 #cv.imshow('testmaske',img) 
 
